@@ -124,7 +124,7 @@ class BallsData {
         threads.clear();
         balls.clear();
 
-        score = 0;
-        missedScore = 0;
+        //score = 0;
+        //missedScore = 0;
     }
 }
